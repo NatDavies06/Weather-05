@@ -4,13 +4,6 @@
 
 Using the starter code, the following is a work day calender application. Users will be able to log events hour by hour within work hours.
 
-## Table of Contents
-
-* [Installaton](#Installation)
-* [Refernces](#Refernces)
-* [Features](#Features)
-* [Poject Demo](#Project-Demo)
-
 ## Installation
 
 1. Download or clone repository.
