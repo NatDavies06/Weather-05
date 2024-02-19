@@ -4,13 +4,6 @@
 
 Using the starter code, the following is a work day calender application. Users will be able to log events hour by hour within work hours.
 
-## Table of Contents
-
-* [Installaton](#Installation)
-* [Refernces](#Refernces)
-* [Features](#Features)
-* [Poject Demo](#Project-Demo)
-
 ## Installation
 
 1. Download or clone repository.
@@ -19,7 +12,7 @@ Using the starter code, the following is a work day calender application. Users 
 
 3. Use a text editor to view all code.
 
-## Features
+## Technologies
 
 * HTML
 * CSS
@@ -27,5 +20,3 @@ Using the starter code, the following is a work day calender application. Users 
 * jQuery
 
 ## Poject Demo
-
-![](/Users/natedavis/Documents/GitHub/Work-Day-Scheduler-5/Assets/05-third-party-apis-homework-demo.gif)
