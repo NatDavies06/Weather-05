@@ -2,7 +2,8 @@
 
 ## Overview
 
-Using the starter code, the following is a work day calender application. Users will be able to log events hour by hour within work hours.
+This is a simple calendar application built for employees with busy schedules to effectively manage their time by adding important events to a daily planner. It allows users to save events for each hour of a typical working day (9am–5pm) and ensures that the saved events persist even after refreshing the page, thanks to local storage.
+
 
 ## Installation
 
@@ -20,3 +21,5 @@ Using the starter code, the following is a work day calender application. Users 
 * jQuery
 
 ## Poject Demo
+
+[Demo](https://natdavies06.github.io/Work-Day-05/)https://natdavies06.github.io/Work-Day-05/
